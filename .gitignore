@@ -43,3 +43,7 @@ bin/
 # merge tooling
 *.orig
 
+# Project specific
+webapps/*.war
+logs/2*
+
